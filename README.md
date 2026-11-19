@@ -369,19 +369,19 @@ Shows that the SSH service is active and running.
 ### 2. Successful SSH Connection from MacBook
 Shows the initial SSH connection from your MacBook to Ubuntu.
 
-![Local SSH Connection](screenshots/ssh-connection.png)
+![SSH Connection](image2.jpeg)
 
 ### 3. Tailscale Installation and IP Address
 Shows Tailscale installed and the private Tailscale IP assigned to Ubuntu.
 
-![Tailscale IP](screenshots/tailscale-ip.png)
+![Tailscale IP](image3.jpeg)
 
 ### 4. Tailscale Devices Connected
 Shows the MacBook and Ubuntu VM registered in Tailscale.
 
-![Tailscale Devices](screenshots/tailscale-devices.png)
+![Tailscale Devices](image4.jpeg)
 
 ### 5. Remote SSH Connection Using Tailscale
 Shows the successful remote SSH connection using the Tailscale IP.
 
-![Remote SSH Connection](screenshots/remote-ssh.png)
+![Remote SSH Connection](image5.jpeg)
