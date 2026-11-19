@@ -358,3 +358,30 @@ This lab provides a foundation for further learning in Linux administration, net
 - Monitor SSH authentication logs.
 - Expand the lab with Docker and Nginx.
 - Automate server configuration using Bash scripts.
+
+  ## Screenshots
+
+### 1. SSH Service Running on Ubuntu
+Shows that the SSH service is active and running.
+
+![SSH Service Status](screenshots/ssh-status.png)
+
+### 2. Successful SSH Connection from MacBook
+Shows the initial SSH connection from your MacBook to Ubuntu.
+
+![Local SSH Connection](screenshots/ssh-connection.png)
+
+### 3. Tailscale Installation and IP Address
+Shows Tailscale installed and the private Tailscale IP assigned to Ubuntu.
+
+![Tailscale IP](screenshots/tailscale-ip.png)
+
+### 4. Tailscale Devices Connected
+Shows the MacBook and Ubuntu VM registered in Tailscale.
+
+![Tailscale Devices](screenshots/tailscale-devices.png)
+
+### 5. Remote SSH Connection Using Tailscale
+Shows the successful remote SSH connection using the Tailscale IP.
+
+![Remote SSH Connection](screenshots/remote-ssh.png)
