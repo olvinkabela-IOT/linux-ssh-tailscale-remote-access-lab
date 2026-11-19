@@ -364,7 +364,7 @@ This lab provides a foundation for further learning in Linux administration, net
 ### 1. SSH Service Running on Ubuntu
 Shows that the SSH service is active and running.
 
-![SSH Service Status](screenshots/ssh-status.png)
+![SSH Service Status](screenshots/image.jpeg)
 
 ### 2. Successful SSH Connection from MacBook
 Shows the initial SSH connection from your MacBook to Ubuntu.
